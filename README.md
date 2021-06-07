@@ -20,8 +20,7 @@ requirements
 * 商品情報を手に入れるにはその商品のリンクに飛ぶ必要があるが商品によって遷移先が異なるため，適宜DESC_LISTを更新すること．
 
 
-
-##References
+## References
 * CSSセレクタ : https://gammasoft.jp/support/css-selector-for-python-web-scraping/
 
 
